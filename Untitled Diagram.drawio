@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T14:04:07.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BpcLce7v8O2J63DDtqXG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T14:04:50.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1EdGLuRncc-BB-wlwqbY" version="20.5.3" type="github">
   <diagram id="cU4OAi840j_sRIVLiYRo" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2300" pageHeight="900" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="KUFrBQ5MN6OonlesNt51-3" value="used by seller" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="63" y="650" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KUFrBQ5MN6OonlesNt51-4" value="used by admin" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="KUFrBQ5MN6OonlesNt51-4" value="used by warehouse manager" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="63" y="730" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUFrBQ5MN6OonlesNt51-5" value="used by both" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
